@@ -3,30 +3,50 @@
        "id": 1,
        "name": "Chevy",
        "price": 15000,
-       "year": 2015
+       "year": 2015,
+       "contact":{
+        "dealer": "Alex",
+        "number": "111-111-111"
+       }
     },
     {
         "id": 2,
         "name": "Bentley",
         "price": 215000,
-        "year": 2021
+        "year": 2021,
+        "contact":{
+            "dealer": "Tom",
+            "number": "211-211-211"
+           }
      },
      {
         "id": 3,
         "name": "Ford",
         "price": 5000,
-        "year": 2005
+        "year": 2005,
+        "contact":{
+            "dealer": "Conor",
+            "number": "331-333-111"
+           }
      },
      {
         "id": 4,
         "name": "Land Rover",
         "price": 85000,
-        "year": 2019
+        "year": 2019,
+        "contact":{
+            "dealer": "Justin",
+            "number": "444-111-111"
+           }
      },
      {
         "id": 5,
         "name": "Nissan",
         "price": 25000,
-        "year": 2019
+        "year": 2019,
+        "contact":{
+            "dealer": "Robert",
+            "number": "555-555-111"
+           }
      }
 ]
