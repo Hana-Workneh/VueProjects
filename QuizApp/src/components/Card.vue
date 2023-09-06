@@ -23,6 +23,7 @@
     margin-bottom: 35px;
     margin-right: 20px;
     cursor: pointer;
+    background-color: aliceblue;
   }
   
   .card img {
